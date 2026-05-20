@@ -44,3 +44,5 @@ gcc main.c -o client -lws2_32
 Different logic for handling tasks (Making sure it doesn't break when the user sends a wrong message).
 Better UI instead of just the terminal.
 Making the sending and recieveing into its own functions.
+
+I've also included a server.c file which would simulate a server like the one used in class.
